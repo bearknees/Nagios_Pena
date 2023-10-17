@@ -1,0 +1,8 @@
+- name: Update apt packages
+  apt:
+    update_cache: yes
+
+- name: Install Nagios on Ubuntu
+  apt:
+    name: nagios4
+    state: present
