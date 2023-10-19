@@ -1,6 +1,6 @@
-[centos_hosts]
+[centos_server]
 192.168.1.29
 
-[ubuntu_hosts]
+[ubuntu_server]
 192.168.1.18
 
